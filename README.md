@@ -13,3 +13,5 @@
 [lab-5] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assignment_5.ipynb)
 
 [lab-6] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assig_6.ipynb)
+
+[lab-7] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assi_7.ipynb)
