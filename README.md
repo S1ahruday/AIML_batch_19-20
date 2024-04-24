@@ -19,3 +19,5 @@
 [lab-8] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assi_8.ipynb)
 
 [lab-9] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assi_9.ipynb)
+
+[lab-10] (https://github.com/S1ahruday/AIML_batch_19-20/blob/main/assi_10.ipynb)
